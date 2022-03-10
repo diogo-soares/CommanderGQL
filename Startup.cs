@@ -30,7 +30,9 @@ namespace CommanderGQL
               .AddQueryType<Query>()
               .AddType<PlatformTypes>()
               .AddType<CommandsType>()
-              .AddProjections();
+              .AddProjections()
+              .AddFiltering()
+              .AddSorting();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
