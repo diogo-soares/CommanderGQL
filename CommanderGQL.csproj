@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GraphQl.Server.Ui.Voyager" Version="5.2.0" />
+    <PackageReference Include="GraphQl.Server.Ui.Voyager" Version="4.4.1" />
     <PackageReference Include="HotChocolate.AspNetCore" Version="12.6.2" />
     <PackageReference Include="HotChocolate.Data.EntityFramework" Version="12.6.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.15">
