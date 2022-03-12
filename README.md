@@ -13,3 +13,12 @@ If you liked the project please give a star
 - The latest SDK and tools can be downloaded from https://dot.net/core.
 
 To know more about how to setup your enviroment visit the [Microsoft .NET Download Guide](https://www.microsoft.com/net/download)
+
+## Technologies implemented:
+
+- .NET Core 5.0
+- HotChocolate.AspNetCore
+- GraphQl.Server.Ui.Voyager
+- HotChocolate.Data.EntityFramework 
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.SqlServer
